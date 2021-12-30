@@ -7,7 +7,7 @@
 
 <div align="justify">
   
-### A deep ***neural network*** (DNN) is designed to solve the above problem. The DNN takes channel realizations as the input and then outputs some power-allocation coefficient to satisfy the proposed optimization problem. The output is a function of the input. This means that the power-allocation coefficient is a function of the channels. Thus, the training process is equivalent to the process of finding an optimal/near-optimal function. NOTE: The DNN learns a ***function*** but not a single variable.
+### A deep ***neural network*** (DNN) is designed to solve the above problem. The DNN takes channel realizations as the input and then outputs some power-allocation coefficient to satisfy the proposed optimization problem. The output is a function of the input. This means that the power-allocation coefficient is a function of the channels. Thus, the training process is equivalent to the process of finding an optimal/near-optimal function. NOTE: The DNN learns to optimize a ***function*** but not just a single variable.
 
 </div>
 
